@@ -1,0 +1,131 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "review": "Dr. Johnson's lectures are engaging and insightful. She makes complex topics easy to understand.",
+        "subject": "Physics",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Mark Thompson",
+        "review": "Prof. Thompson is knowledgeable but often goes off-topic. His grading can be quite strict.",
+        "subject": "Mathematics",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Sarah Lee",
+        "review": "Dr. Lee is very approachable and always willing to help outside of class. Her assignments are challenging but fair.",
+        "subject": "Computer Science",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. John Smith",
+        "review": "Dr. Smith's lectures are dry and monotonous. The course materials are outdated.",
+        "subject": "History",
+        "stars": 2
+      },
+      {
+        "professor": "Prof. Linda Carter",
+        "review": "Prof. Carter has a great teaching style and is very enthusiastic about the subject. The exams are quite difficult.",
+        "subject": "Literature",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Alex Brown",
+        "review": "Dr. Brown is very knowledgeable but can be difficult to follow. Office hours are often packed.",
+        "subject": "Biology",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Jessica Adams",
+        "review": "Prof. Adams is engaging and uses a lot of real-world examples. Her grading is lenient.",
+        "subject": "Economics",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Michael Wilson",
+        "review": "Dr. Wilson's lectures are well-organized, but he can be very critical of student work.",
+        "subject": "Chemistry",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Karen Martinez",
+        "review": "Prof. Martinez is passionate about the subject and creates a very interactive classroom environment.",
+        "subject": "Sociology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Robert Taylor",
+        "review": "Dr. Taylor's course was interesting but his feedback on assignments was minimal.",
+        "subject": "Philosophy",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Nancy Scott",
+        "review": "Prof. Scott is highly organized and provides clear instructions, but her pace is very fast.",
+        "subject": "Art History",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. James Clark",
+        "review": "Dr. Clark is very approachable and provides a lot of extra resources for students.",
+        "subject": "Political Science",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Megan Lewis",
+        "review": "Prof. Lewis is excellent at explaining concepts, though her exams are quite challenging.",
+        "subject": "Statistics",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. William Hall",
+        "review": "Dr. Hall's lectures are often disorganized and he tends to rush through the material.",
+        "subject": "Engineering",
+        "stars": 2
+      },
+      {
+        "professor": "Prof. Laura Allen",
+        "review": "Prof. Allen is very supportive and encourages student participation, but her grading can be inconsistent.",
+        "subject": "Psychology",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Karen Young",
+        "review": "Dr. Young is a fantastic lecturer and very knowledgeable, but her course workload is heavy.",
+        "subject": "Anthropology",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Kevin Harris",
+        "review": "Prof. Harris is approachable and provides good feedback, but the class is often too slow-paced.",
+        "subject": "Business",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Rachel Robinson",
+        "review": "Dr. Robinson's classes are lively and engaging. She has a great ability to make the material relatable.",
+        "subject": "Music",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Daniel Walker",
+        "review": "Prof. Walker's lectures are clear and well-structured, but he sometimes provides little context for the material.",
+        "subject": "Engineering",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Olivia Green",
+        "review": "Dr. Green is very passionate about her subject, though her exams can be quite difficult.",
+        "subject": "Geography",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Thomas Adams",
+        "review": "Prof. Adams is very knowledgeable but tends to lecture in a monotonous tone. Could benefit from more interaction.",
+        "subject": "Theology",
+        "stars": 3
+      }
+    ]
+  }
+  
