@@ -87,12 +87,12 @@ export default function Home() {
               sx={{
                 backgroundColor: message.role === 'assistant'
                   ? 'rgba(161,185,213,0.5)' // Slightly transparent background for assistant messages
-                  : ' rgba(239,135,174,0.8)', // Slightly transparent background for user messages
+                  : ' rgba(239,135,174,0.8)', 
                 color: 'black',
-                borderRadius: '12px', // Slightly rounded borders
+                borderRadius: '12px', 
                 p: 2,
                 maxWidth: '70%',
-                backdropFilter: 'blur(5px)', // Adds a subtle blur effect
+                backdropFilter: 'blur(5px)', 
               }}
             >
               <Typography component="div">
@@ -114,7 +114,7 @@ export default function Home() {
             }
           }}
           sx={{
-            backgroundColor: 'rgba(255, 255, 255, 0.8)',
+            backgroundColor: 'rgba(255, 255, 255, 0.7)',
             borderRadius: '8px',
           }}
         />
